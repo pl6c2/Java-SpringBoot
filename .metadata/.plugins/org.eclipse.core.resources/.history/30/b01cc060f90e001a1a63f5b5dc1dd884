@@ -1,0 +1,7 @@
+package SBHello;
+
+@Service
+public class TopicService {
+
+	
+}

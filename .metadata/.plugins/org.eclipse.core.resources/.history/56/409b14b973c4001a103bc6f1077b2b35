@@ -1,0 +1,11 @@
+package com.trash;
+
+public class Trash {
+	
+	public static void main(String args[])
+	{
+		Set<Integer> s=new HashSet<>();
+		
+	}
+
+}

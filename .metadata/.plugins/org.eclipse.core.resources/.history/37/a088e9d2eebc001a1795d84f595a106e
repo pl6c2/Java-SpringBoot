@@ -1,0 +1,12 @@
+package com.threadClass;
+
+public class Priority {
+
+	public static void main(String[] args) {
+		
+		Thread t=new Thread();
+		t.getPriority();
+
+	}
+
+}

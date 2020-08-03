@@ -1,0 +1,14 @@
+package com.Implementation;
+
+import com.JustInterface.JustInter;
+
+public class JustImplementation implements JustInter {
+
+	@Override
+	public void demointer() {
+		
+		System.out.println("hello welcome prem");
+		
+	}
+
+}

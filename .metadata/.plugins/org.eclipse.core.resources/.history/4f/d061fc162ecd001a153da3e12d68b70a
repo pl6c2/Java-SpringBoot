@@ -1,0 +1,7 @@
+package com.Implementation;
+
+import com.JustInterface.JustInter;
+
+public class JustImplementation implements JustInter {
+
+}

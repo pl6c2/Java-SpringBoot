@@ -1,0 +1,13 @@
+package com.trash;
+
+import java.util.Set;
+
+public class Trash {
+	
+	public static void main(String args[])
+	{
+		Set<Integer> s=new HashSet<>();
+		
+	}
+
+}

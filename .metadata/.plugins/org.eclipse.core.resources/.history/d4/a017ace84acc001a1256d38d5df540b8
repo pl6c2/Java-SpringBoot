@@ -1,0 +1,22 @@
+package com.trash;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+class Demo
+{
+	public String dude="prem";
+}
+
+public class Trash {
+	
+	public static void main(String args[])
+	{
+		
+	}
+
+}

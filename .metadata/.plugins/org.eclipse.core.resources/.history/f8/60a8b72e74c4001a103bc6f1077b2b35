@@ -1,0 +1,30 @@
+package com.trash;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+public class Trash {
+	
+	public static void main(String args[])
+	{
+		Set<Integer> s=new HashSet<>();
+		s.add(1);
+		s.add(1);
+		for(Integer i:s)
+		{
+			
+		}
+		
+		Map<Integer, String> s1=new HashMap<>();
+		s1.put(1,"prem");
+		s1.put(1,"dude");
+		for(Entry<Integer, String> e: s1.entrySet())
+		{
+			System.out.println(e.getKey()+" "+ e.getValue());
+		}
+	}
+
+}

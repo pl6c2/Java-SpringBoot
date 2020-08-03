@@ -1,0 +1,23 @@
+package com.trash;
+
+public class Trash {
+	
+	int a=0;
+	
+	public static void dude()
+	{
+		System.out.println("hi");
+	}
+	
+	public void bey()
+	{
+		dude();
+	}
+
+	public static void main(String[] args) {
+		
+		dude();
+
+	}
+
+}

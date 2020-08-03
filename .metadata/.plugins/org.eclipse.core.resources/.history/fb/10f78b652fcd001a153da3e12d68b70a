@@ -1,0 +1,6 @@
+package com.JustInterface;
+
+public interface JustInter {
+
+	public void demointer();
+}

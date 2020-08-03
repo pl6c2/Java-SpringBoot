@@ -1,0 +1,19 @@
+package com.DemoMockito.Mockito;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+
+import com.JustInterface.JustInter;
+
+class MockitoApplicationTestsTest {
+
+	@Test
+	void test() {
+		
+		@Mock
+		JustInter j=mock();
+	}
+
+}

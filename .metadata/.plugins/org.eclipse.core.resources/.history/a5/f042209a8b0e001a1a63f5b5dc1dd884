@@ -1,0 +1,10 @@
+package SBHello;
+
+public class Topics {
+	
+	public int id;
+	public String name;
+	public String desc;
+	
+
+}

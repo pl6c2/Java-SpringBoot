@@ -1,0 +1,10 @@
+package com.trash;
+
+public class Trash {
+	
+	Public static void main(String args[])
+	{
+		
+	}
+
+}
